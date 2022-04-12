@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bilal Hashmi's Resume
 ---
-# Isaac Newton
+# Bilal Hashmi
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hashmi.sbilal@gmail.com">hashmi.sbilal@gmail.com</a>
+| <a href="https://github.com/hashmib/">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Enabling digital transformation at Dynatrace
 
 ### Specialized in
 
